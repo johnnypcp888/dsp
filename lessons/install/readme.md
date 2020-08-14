@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-*Installed Python 3.8.**It is compatible with the bootcamp's course material.*
+*Installed Python 3.8.*  *It is compatible with the bootcamp's course material.*
 
 ### Q2. Which Python Version Installed   
 
